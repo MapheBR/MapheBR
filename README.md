@@ -4,71 +4,71 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack+em+Formação;Especialista+em+Suporte+Técnico;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack+em+Formação+💻;Estudante+de+Engenharia+de+Software+🎓;Transformando+Café+em+Código+☕;Sempre+Aprendendo+Algo+Novo+🚀)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/MapheBR">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-moraes-2281a234b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# 👨‍💻 Marcos Moraes
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MapheBR&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MapheBR?label=Seguidores&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MapheBR?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+**`Estudante de Engenharia de Software | Desenvolvedor em Evolução`**
+
+Me chamo Marcos Moraes, tenho paixão por tecnologia e atualmente estou cursando o **5º semestre de Engenharia de Software**. Possuo experiência em **Suporte Técnico de TI**, onde desenvolvi habilidades sólidas em resolução de problemas, manutenção de sistemas e atendimento ao usuário. Agora, estou em transição de carreira para o **desenvolvimento de software**, focando em me tornar um **Desenvolvedor Full Stack**.
+
+Atuo com os fundamentos de **HTML, CSS e JavaScript**, e estou evoluindo constantemente através de projetos acadêmicos desenvolvidos em **Python** e **TypeScript**. Meu objetivo é dominar tecnologias modernas e construir soluções que impactem positivamente a vida das pessoas.
+
+<p align="left">
+    <a href="https://github.com/MapheBR?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MapheBR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/MapheBR?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MapheBR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/MapheBR">
+        <img 
+            alt="Repositórios" 
+            title="Meus repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/Repositórios-Públicos-blue?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/marcos-moraes-2281a234b/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🎓 Formação Acadêmica
 
 ```javascript
-const marcos = {
-    nome: "Marcos Moraes",
-    localização: "Brasil 🇧🇷",
-    idade: "Em constante evolução",
-    profissão: "Desenvolvedor Full Stack (em formação)",
+const formacao = {
+    curso: "Engenharia de Software",
+    semestre: "5º Período",
+    status: "Em andamento",
+    previsaoConclusao: "2026",
     
-    background: {
-        atual: "Suporte Técnico de TI",
-        transição: "Para Desenvolvimento de Software",
-        experiência: ["Manutenção de Hardware", "Redes", "Sistemas Empresariais"]
-    },
-    
-    código: {
-        linguagens: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express"],
-        frontend: ["React (em breve)"],
-        database: ["SQL", "MongoDB (estudando)"],
-        ferramentas: ["Git", "GitHub", "VSCode", "npm"]
-    },
-    
-    aprendendo: ["TypeScript", "Node.js", "React", "Banco de Dados", "APIs REST"],
-    
-    objetivos_2024: [
-        "Dominar TypeScript e Node.js",
-        "Construir 5+ projetos Full Stack",
-        "Contribuir em projetos Open Source",
-        "Conseguir primeira vaga como Dev"
+    focoPrincipal: [
+        "Desenvolvimento de Software",
+        "Arquitetura de Sistemas",
+        "Algoritmos e Estruturas de Dados",
+        "Banco de Dados",
+        "Engenharia de Requisitos",
+        "Qualidade de Software"
     ],
     
-    hobbies: ["Programar", "Aprender novas tecnologias", "Resolver problemas"],
-    
-    softSkills: [
-        "Resolução de Problemas",
-        "Trabalho em Equipe", 
-        "Comunicação Efetiva",
-        "Aprendizado Rápido",
-        "Proatividade"
-    ],
-    
-    frase: "Transformando café em código ☕➡️💻"
+    projetosAcademicos: {
+        linguagens: ["Python", "TypeScript", "JavaScript"],
+        areas: ["Web Development", "Automação", "Análise de Dados"]
+    }
 };
