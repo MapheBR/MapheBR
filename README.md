@@ -1,147 +1,74 @@
-<h1 align="center">Olá 👋, eu sou Marcos Moraes</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcos%20Moraes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack+em+Formação;Especialista+em+Suporte+Técnico;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-💻 Desenvolvedor em evolução | 🚀 Futuro Full Stack | 🛠️ Suporte Técnico de TI
+  <a href="https://github.com/MapheBR">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-moraes-2281a234b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/MapheBR">
-<img src="https://komarev.com/ghpvc/?username=MapheBR&label=Visualizações&color=0e75b6&style=flat" alt="views"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=MapheBR&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MapheBR?label=Seguidores&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MapheBR?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-🎯 Buscando crescer profissionalmente na área de tecnologia  
-📚 Estudando programação e desenvolvimento Full Stack  
-💻 Interesse em desenvolvimento web, automação e sistemas  
-🛠️ Experiência com suporte técnico e resolução de problemas  
-🚀 Sempre aprendendo novas tecnologias e ferramentas  
-⚡ Perfil proativo, organizado e focado em evolução constante  
-
----
-
-# 🚀 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="TS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="NodeJS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="Github" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-<img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-</div>
-
----
-
-# 🛠️ Competências
-
-✔️ Lógica de programação  
-✔️ JavaScript básico  
-✔️ TypeScript básico  
-✔️ HTML5 e CSS3  
-✔️ Git e GitHub  
-✔️ Node.js básico  
-✔️ Banco de dados básico  
-✔️ Suporte técnico de TI  
-✔️ Manutenção de computadores  
-✔️ Instalação de softwares  
-✔️ Redes básicas  
-✔️ Pacote Office  
-✔️ Sistemas empresariais  
-✔️ Atendimento ao usuário  
-✔️ Resolução de problemas  
-✔️ Informática avançada  
-✔️ Facilidade de aprendizado  
-✔️ Trabalho em equipe  
-✔️ Organização e proatividade  
-✔️ Vontade constante de evoluir  
-
----
-
-# 📚 Atualmente estudando
-
-📖 TypeScript  
-📖 Node.js  
-📖 Desenvolvimento Web  
-📖 APIs e Backend  
-📖 Git e versionamento  
-📖 Estrutura de Dados  
-📖 Banco de Dados  
-📖 Desenvolvimento Full Stack  
-
----
-
-# 🎯 Objetivos
-
-🚀 Me tornar um Desenvolvedor Full Stack  
-🚀 Criar projetos profissionais  
-🚀 Trabalhar com tecnologias modernas  
-🚀 Evoluir constantemente na programação  
-🚀 Conseguir oportunidades na área de TI  
-🚀 Aprender arquitetura e boas práticas  
-
----
-
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MapheBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapheBR&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MapheBR&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌎 Contato
-
-<div>
-
-<a href="https://www.linkedin.com/in/marcos-moraes-2281a234b/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/MapheBR" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 💡 Frase
-
-> “Grandes desenvolvedores não nascem prontos, eles evoluem um commit de cada vez.” 🚀
-
----
-
-<div align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</div> 
+```javascript
+const marcos = {
+    nome: "Marcos Moraes",
+    localização: "Brasil 🇧🇷",
+    idade: "Em constante evolução",
+    profissão: "Desenvolvedor Full Stack (em formação)",
+    
+    background: {
+        atual: "Suporte Técnico de TI",
+        transição: "Para Desenvolvimento de Software",
+        experiência: ["Manutenção de Hardware", "Redes", "Sistemas Empresariais"]
+    },
+    
+    código: {
+        linguagens: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express"],
+        frontend: ["React (em breve)"],
+        database: ["SQL", "MongoDB (estudando)"],
+        ferramentas: ["Git", "GitHub", "VSCode", "npm"]
+    },
+    
+    aprendendo: ["TypeScript", "Node.js", "React", "Banco de Dados", "APIs REST"],
+    
+    objetivos_2024: [
+        "Dominar TypeScript e Node.js",
+        "Construir 5+ projetos Full Stack",
+        "Contribuir em projetos Open Source",
+        "Conseguir primeira vaga como Dev"
+    ],
+    
+    hobbies: ["Programar", "Aprender novas tecnologias", "Resolver problemas"],
+    
+    softSkills: [
+        "Resolução de Problemas",
+        "Trabalho em Equipe", 
+        "Comunicação Efetiva",
+        "Aprendizado Rápido",
+        "Proatividade"
+    ],
+    
+    frase: "Transformando café em código ☕➡️💻"
+};
