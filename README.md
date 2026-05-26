@@ -7,8 +7,6 @@
 **Estudante de Engenharia de Software · 5º Semestre**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Moraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-moraes-2281a234b/)
-[![GitHub](https://img.shields.io/badge/GitHub-MapheBR-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/MapheBR)
-
 </div>
 
 ---
