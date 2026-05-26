@@ -2,28 +2,66 @@
 
 <br>
 
-# Marcos Moraes
+### Marcos Moraes
 
 **Estudante de Engenharia de Software · 5º Semestre**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Moraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-moraes-2281a234b/)
+<a href="https://www.linkedin.com/in/marcos-moraes-2281a234b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Moraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/MapheBR">
+  <img src="https://img.shields.io/badge/GitHub-MapheBR-24292F?style=flat-square&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## Sobre
+### Sobre
 
 Estudante de Engenharia de Software no 5º semestre, construindo base técnica em desenvolvimento web e programação. Previsão de conclusão em 2027.
 
 ---
 
-## Tecnologias em Estudo
+### Tecnologias em Estudo
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div style="display: inline">
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />&nbsp;
+</div>
 
+---
 
+### Ferramentas
 
+<div style="display: inline">
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />&nbsp;
+</div>
+
+---
+
+### Formação Acadêmica
+
+Curso de Engenharia de Software com foco em fundamentos sólidos de programação, estruturas de dados, banco de dados e arquitetura de sistemas.
+
+---
+
+### Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MapheBR&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=24292F&icon_color=0A66C2&text_color=57606a" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapheBR&layout=compact&theme=default&hide_border=true&title_color=24292F&text_color=57606a" height="160"/>
+</div>
+
+---
+
+<div align="center">
+<sub>Aberto a feedbacks, colaborações e oportunidades de aprendizado.</sub>
+</div>
