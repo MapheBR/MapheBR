@@ -27,24 +27,5 @@ Estudante de Engenharia de Software no 5º semestre, construindo base técnica e
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## Formação Acadêmica
-
-**Disciplinas cursadas**
-- Algoritmos e Estruturas de Dados
-- Programação Orientada a Objetos
-- Engenharia de Requisitos
-- Banco de Dados
-- Arquitetura de Software
-- Qualidade e Testes
-
----
 
 
