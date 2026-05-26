@@ -47,15 +47,4 @@ Estudante de Engenharia de Software no 5º semestre, construindo base técnica e
 
 ---
 
-## Estatísticas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MapheBR&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=24292F&icon_color=0A66C2&text_color=57606a" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapheBR&layout=compact&theme=default&hide_border=true&title_color=24292F&text_color=57606a" height="160"/>
-</div>
-
----
-
-<div align="center">
-<sub>Aberto a feedbacks, colaborações e oportunidades de aprendizado.</sub>
-</div>
