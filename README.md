@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Estudante de Engenharia de Software no 5º semestre, construindo base técnica em desenvolvimento web e programação. Previsão de conclusão em 2026.
+Estudante de Engenharia de Software no 5º semestre, construindo base técnica em desenvolvimento web e programação. Previsão de conclusão em 2027.
 
 ---
 
