@@ -40,7 +40,7 @@ Estudante de Engenharia de Software no 5º semestre, construindo base técnica e
 
 <div style="display: inline">
   &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />&nbsp;
-  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />&nbsp;
+  &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" />&nbsp;
   &nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />&nbsp;
 </div>
 
